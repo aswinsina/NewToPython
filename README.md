@@ -1,2 +1,2 @@
 # NewToPython
-initial codes to learn oython
+initial codes to learn python
